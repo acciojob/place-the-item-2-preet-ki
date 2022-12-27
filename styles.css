@@ -1,29 +1,20 @@
 
 /* Your CSS Code here. */
 .holder{
-    background-color: blanchedalmond;
-    width:100%;
-    height: 600px;
+
     display: flex;
-    flex-direction: row;
+    flex-direction:row;
     flex-wrap: wrap;
-}
-         
-
-
-
-.first{
-    background-color: red;
-    width:200px;
     
+
 }
-.second{
-    background-color: blue;
-    width:200px;
-    
-}
-.third{
-    background-color: green;
-    width:200px;
-   
-}
+        .first{
+            background-color: red;
+            width: 500px;
+
+        }
+        .second{
+            background-color: blue;
+            width: 300px;
+        }
+        
